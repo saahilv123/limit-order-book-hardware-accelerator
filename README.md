@@ -71,14 +71,13 @@ The `lob_engine` was implemented in **OpenLane 2** using the **SKY130 PDK**, inc
 
 <img width="2048" height="1474" alt="image" src="https://github.com/user-attachments/assets/13fd20e7-b1ae-4afc-a37c-6a0372a21dce" />
 
-*Final KLayout GDSII view after routing and physical verification.*
+*Final GDSII view after routing and physical verification.*
 
 ## Final Results
 
 | Metric | Result |
 |---|---|
 | Technology | SKY130 |
-| Clock target | ~35 MHz |
 | Hard SRAM macros | 6 |
 | Total hard SRAM capacity | 6 KB |
 | Order capacity | 1,024 orders |
@@ -86,6 +85,8 @@ The `lob_engine` was implemented in **OpenLane 2** using the **SKY130 PDK**, inc
 | Die area | 3.24 mm² |
 | Setup violations | 0 |
 | Hold violations | 0 |
+| Max slew violations| 0 |
+| Max capacitance violations | 0 |
 | DRC | Passed |
 | LVS | Passed |
 | Antenna | Passed |
