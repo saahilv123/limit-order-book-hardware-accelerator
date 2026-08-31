@@ -57,19 +57,19 @@ The `lob_engine` was implemented in **OpenLane 2** using the **SKY130 PDK**, inc
 
 ## Detailed Placement
 
-![Detailed placement](docs/detailed_placement.png)
+<img width="1639" height="1230" alt="image" src="https://github.com/user-attachments/assets/ef2e956e-8022-440d-8536-a83e1da36d37" />
 
 *Detailed placement close-up showing rows of standard cells in the central logic region.*
 
 ## Routed Interconnect
 
-![Routed interconnect](docs/routing_closeup.png)
+<img width="1340" height="1007" alt="image" src="https://github.com/user-attachments/assets/49b8936d-f27f-4d1a-bbbe-4a2327c81552" />
 
 *Post-route OpenROAD view showing standard-cell geometry, vias, and multi-layer interconnect.*
 
 ## Final GDSII
 
-![Final GDSII](docs/final_layout.png)
+<img width="2048" height="1474" alt="image" src="https://github.com/user-attachments/assets/13fd20e7-b1ae-4afc-a37c-6a0372a21dce" />
 
 *Final KLayout GDSII view after routing and physical verification.*
 
