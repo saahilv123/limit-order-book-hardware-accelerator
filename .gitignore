@@ -1,0 +1,26 @@
+# Simulation
+work/
+transcript
+vsim.wlf
+*.vcd
+*.fst
+*.wlf
+
+# Build output
+build/
+obj_dir/
+
+# OpenLane generated runs
+runs/
+openlane/**/runs/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# External SRAM macro files
+third_party/sky130_sram_macros/
