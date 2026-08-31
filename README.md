@@ -38,6 +38,8 @@ The physical implementation uses six instances of:
 
 Using hard SRAM macros avoids implementing the main storage arrays with large numbers of standard-cell flip-flops.
 
+The SRAM macro views are treated as an external dependency and are not included in this repository.
+
 # Verification
 
 The design was verified using:
