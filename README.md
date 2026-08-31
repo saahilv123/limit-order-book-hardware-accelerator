@@ -92,8 +92,4 @@ The `lob_engine` was implemented in **OpenLane 2** using the **SKY130 PDK**, inc
 
 # Tools
 
-SystemVerilog, C++, Verilator, Yosys, OpenROAD, OpenSTA, OpenLane 2, KLayout, Netgen, SKY130
-
-# Project Scope
-
-This project is a simulated ASIC implementation and was not fabricated.
+SystemVerilog, C++, ModelSim, Verilator, Yosys, OpenROAD, OpenSTA, OpenLane 2, KLayout, Netgen, SKY130
